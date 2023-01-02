@@ -1,0 +1,31 @@
+nav {
+    background-color: #6F2CF3;
+}
+
+nav  a {
+    color: white;
+    font-weight: 400;
+}
+
+.social-i {
+    display: flex;
+    justify-content: space-around;
+    width: 15%;
+}
+.boot {
+    display: flex;
+    justify-content: center;
+    width: 10%;
+    height: auto;
+}
+
+.boot svg {
+    color: white;
+    width: 30px;
+    height: auto;
+    }
+svg {
+    color: white;
+    width: 25px;
+    height: auto;
+}
