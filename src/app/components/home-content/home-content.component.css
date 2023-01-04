@@ -30,11 +30,11 @@ background-position: center;
 font-weight: bold;
    }
 
-
+/*cards*/
 .cards-container {
         width: 100%;
    background-color: #6F2CF3;
-    height: 500px;
+    height: 600px;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -45,7 +45,8 @@ font-weight: bold;
 
 .card1, .card2, .card3 {
 width: 32%;
-height: 200px;
+height: auto;
+
 
 }
 
@@ -56,4 +57,29 @@ height: 200px;
 }
 .card:hover {
     transform:  scale(1.1);
+    }
+
+    .imgcard1{
+        width: auto;
+        height: 200px;
+        background-image: url(/assets/photos/card1.jpg);
+        background-size: cover;
+        background-position: center;
+        border-radius: 4px;
+    }
+    .imgcard2{
+        width: auto;
+        height: 200px;
+        background-image: url(/assets/photos/card2.jpg);
+        background-size: cover;
+        background-position: center;
+        border-radius: 4px;
+    }
+    .imgcard3{
+        width: auto;
+        height: 200px;
+        background-image: url(/assets/photos/card3.jpg);
+        background-size: cover;
+        background-position: center;
+        border-radius: 4px;
     }
