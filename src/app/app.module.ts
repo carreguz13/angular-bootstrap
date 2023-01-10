@@ -7,6 +7,7 @@ import { HomeContentComponent } from './components/home-content/home-content.com
 import { FooterComponent } from './components/footer/footer.component';
 import { HeroSingUpFormComponent } from './components/hero-sing-up-form/hero-sing-up-form.component';
 import { PricingComponent } from './components/pricing/pricing.component';
+import { AccordionComponent } from './components/accordion/accordion.component';
 
 
 
@@ -18,6 +19,7 @@ import { PricingComponent } from './components/pricing/pricing.component';
     FooterComponent,
     HeroSingUpFormComponent,
     PricingComponent,
+    AccordionComponent,
 
   ],
   imports: [

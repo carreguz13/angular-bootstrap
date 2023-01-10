@@ -1,0 +1,24 @@
+.accordion {
+    padding: 150px 200px 150px 200px;
+    background-color: #6F2CF3;
+}
+
+.titleacc {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.titleacc h1 {
+    color: #ffff;
+    font-size: 50px;
+    font-weight: 400;
+}
+
+.titleacc p {
+    padding: 10px 100px 20px 100px;
+    text-align: center;
+    color: #ffff;
+    font-weight: 400;
+    font-size: 20px;
+}
