@@ -12,6 +12,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { ContactComponent } from './contact/contact.component';
 import { HomeComponent } from './home/home.component';
 import { AboutComponent } from './about/about.component';
+import { CarouselComponent } from './components/carousel/carousel.component';
 
 
 
@@ -27,7 +28,8 @@ import { AboutComponent } from './about/about.component';
     AccordionComponent,
     ContactComponent,
     HomeComponent,
-    AboutComponent
+    AboutComponent,
+    CarouselComponent
     
 
   ],
