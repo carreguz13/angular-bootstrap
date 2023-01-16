@@ -13,6 +13,7 @@ import { ContactComponent } from './contact/contact.component';
 import { HomeComponent } from './home/home.component';
 import { AboutComponent } from './about/about.component';
 import { CarouselComponent } from './components/carousel/carousel.component';
+import { FormComponent } from './components/form/form.component';
 
 
 
@@ -29,7 +30,8 @@ import { CarouselComponent } from './components/carousel/carousel.component';
     ContactComponent,
     HomeComponent,
     AboutComponent,
-    CarouselComponent
+    CarouselComponent,
+    FormComponent
     
 
   ],

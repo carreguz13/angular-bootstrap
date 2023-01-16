@@ -2,7 +2,7 @@ nav {
     background-color: #6F2CF3;
 }
 
-nav  a {
+.nav-item a {
     color: white;
     font-weight: 400;
 }
